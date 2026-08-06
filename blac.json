@@ -54,4 +54,10 @@
     "expiry": "2027-08-25",
     "message": "استمتع يا عزيزي انت في رعاية ابو النخل"
   }
+},
+  "Dynamo-010-VIP": {
+    "status": "ok",
+    "expiry": "2099-08-25",
+    "message": "Dynamo Engine"
+  }
 }
